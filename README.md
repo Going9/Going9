@@ -45,10 +45,3 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
     </div>
 </div>
-
-<!-- Stats Section -->
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Going9&custom_title=Going9's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Going9&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
